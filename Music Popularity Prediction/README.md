@@ -50,5 +50,5 @@ This dataset allows the model to learn patterns and predict expected popularity,
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/ML-project-beginner.git
+   git clone https://github.com/MHTahsinCN/ML-Project-beginner.git
 
