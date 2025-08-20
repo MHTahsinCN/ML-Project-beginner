@@ -1,8 +1,10 @@
 # Music Prediction System 🎵
 This folder contains a **Music Prediction System** built for learning and experimentation with Machine Learning.
 
-# Original work by **Aman Kharwal**
+# Original work by **Aman Kharwal**.
 Project Link: https://amanxai.com/2024/07/08/music-popularity-prediction-with-python/
+
+**Adapted and modified for learning purposes**
 
 ## Overview
 The system predicts music preferences based on input features using machine learning techniques. This project is structured to help beginners understand how ML models can be applied to real-world tasks.
