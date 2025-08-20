@@ -18,4 +18,4 @@ This repository is a playground for beginner-friendly Machine Learning projects.
 ## How to Use
 1. Clone this repo
    ```bash
-   git clone https://github.com/yourusername/ML-project-beginner.git
+   git clone https://github.com/MHTahsinCN/ML-project-beginner.git
