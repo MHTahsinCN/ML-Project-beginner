@@ -4,7 +4,7 @@ This folder contains a **Music Prediction System** developed for learning and ex
 
 ---
 
-## Original Work
+Original Work
 
 This project is **originally created by [Aman Kharwal](https://amanxai.com/2024/07/08/music-popularity-prediction-with-python/)**.  
 **Adapted and modified for learning purposes** to explore machine learning implementation for music popularity prediction.
