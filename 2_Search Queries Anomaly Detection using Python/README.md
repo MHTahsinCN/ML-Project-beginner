@@ -1,35 +1,36 @@
-# Search Queries Anomaly Detection System
+# Loan Approval Prediction
 
-This folder contains a **Search Queries Anomaly Detection System** developed for learning and experimentation with Machine Learning.
+This folder contains a **Loan Approval Prediction** developed for learning and experimentation with Machine Learning.
 
 ---
 
 ## Original Work/Credit/Acknowledgment
 
-This project is originally created by [Aman Kharwal/Search Queries Anomaly Detection System](https://amanxai.com/2023/11/20/search-queries-anomaly-detection-using-python/).  
+This project is originally created by [Aman Kharwal/Loan Approval Prediction](https://amanxai.com/2023/05/15/loan-approval-prediction-using-python/).  
 **Adapted and modified for learning purposes** to explore machine learning implementation for music popularity prediction.
 
 ---
 
 ## Overview
 
-Search Queries Anomaly Detection means identifying queries that are outliers according to their performance metrics. It is valuable for businesses to spot potential issues or opportunities, such as unexpectedly high or low CTRs. If you want to learn how to detect anomalies in search queries, this article is for you. In this article, I’ll take you through the task of Search Queries Anomaly Detection with Machine Learning using Python.
-Search Queries Anomaly Detection: Process We Can Follow
+Loan approval prediction is one of the most practical applications of machine learning in the financial sector. Banks and financial institutions rely on such systems to make the loan approval process faster, data-driven, and less prone to human bias. By analyzing personal and financial information of applicants, a machine learning model can predict whether a loan should be approved or not.
 
-Search Queries Anomaly Detection is a technique to identify unusual or unexpected patterns in search query data. Below is the process we can follow for the task of Search Queries Anomaly Detection:
+`Key Highlights of Loan Approval Prediction:`
+* Uses historical loan data to train predictive models.
+* Considers multiple factors such as:
+   * Applicant’s financial history
+   * Income level and sources
+   * Credit rating/credit history
+   * Employment status
+   * Property area and other attributes
+* Reduces risks for financial institutions by identifying applicants more likely to default.
+* Makes the approval process efficient, transparent, and scalable.
+* Machine learning algorithms help automate decisions that were traditionally manual.
 
-* Gather historical search query data from the source, such as a search engine or a website’s search functionality.
-* Conduct an initial analysis to understand the distribution of search queries, their frequency, and any noticeable patterns or trends.
-* Create relevant features or attributes from the search query data that can aid in anomaly detection.
-* Choose an appropriate anomaly detection algorithm. Common methods include statistical approaches like Z-score analysis and machine learning algorithms like Isolation Forests or One-Class SVM.
-* Train the selected model on the prepared data.
-* Apply the trained model to the search query data to identify anomalies or outliers.
-
-So, the process starts with collecting a dataset based on search queries. I found an ideal dataset for this task. 
-
+By leveraging the right dataset and carefully applying machine learning techniques, we can build an intelligent system capable of predicting loan approvals with accuracy and reliability. In this tutorial, we’ll walk step by step through the implementation of a loan approval prediction model using Python, making the entire process easy to follow and applicable to real-world use cases.
 
 ## Dataset
-You can download the dataset from [here](https://statso.io/2023/11/20/search-queries-anomalies-case-study/).
+You can download the dataset from [here](https://statso.io/2023/05/13/loan-approval-prediction-case-study/).
 
 ---
 
